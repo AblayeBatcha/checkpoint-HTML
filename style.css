@@ -1,0 +1,42 @@
+header nav ul {
+    display: flex;
+}
+header nav ul li{
+    margin: 20px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:black;
+
+
+}
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+.para1{
+    background-color: brown;
+    text-align: center;
+}
+h2{
+    color: aqua;
+    text-align: center;
+}
+ol li{ 
+    background-color: blueviolet;
+}
+ol{
+    width: 50%;
+}
+h3{
+ color:red ;
+ text-align: center;   
+}
+.docteur{ 
+  color: #4a3471;
+  text-align: center;  
+}
